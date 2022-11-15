@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "Javid",
+      "place": "Kaup",
+      "id": 1
+    },
+    {
+      "name": "Javid",
+      "place": "Kaup",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {}
+}
